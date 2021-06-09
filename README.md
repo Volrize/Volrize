@@ -14,9 +14,7 @@
   <a href="https://open.spotify.com/user/52xv87b9sg5qif1nipnma0489" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 
  
-## Spotify Playing Now:
-
-  [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/52xv87b9sg5qif1nipnma0489)
+## Discord Profilim
 
   <p align="center">
   <div align="center"><img src="https://discord.c99.nl/widget/theme-2/664395846212780032.png"></div>
