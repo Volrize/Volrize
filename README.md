@@ -6,7 +6,7 @@
   <img align="left" alt="Elminstr" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Elminstr" alt="Elminstr" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Volrize" alt="Volrize" /> </p>
 <br />
 <p align="center">
  <a href="https://discord.com/users/664395846212780032" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
