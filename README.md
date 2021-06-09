@@ -1,4 +1,4 @@
-### Merhaba, Bne Volrize 👋
+### Merhaba, Ben Kerem 👋
 <a href="https://discordapp.com/users/664395846212780032/">
   <img align="left" alt="My Discord" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
