@@ -19,11 +19,11 @@
   <p align="center">
   <div align="center"><img src="https://discord.c99.nl/widget/theme-2/664395846212780032.png"></div>
   
-## 📈 Github Statics
+## 📈 Github İstatistiklerim
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Champ018&show_icons=true&hide_title=true&theme=radical&text_color=FF9DD9&count_private=true&include_all_commits=true&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Champ018&layout=compact&text_color=FF9DD9&title_color=FF9DD9&bg_color=141321&count_private=true&include_all_commits=true&hide_border=true&langs_count=10" />
+   <img src="https://github-readme-stats.vercel.app/api?username=Volrize&show_icons=true&hide_title=true&theme=radical&text_color=FF9DD9&count_private=true&include_all_commits=true&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Volrize&layout=compact&text_color=FF9DD9&title_color=FF9DD9&bg_color=141321&count_private=true&include_all_commits=true&hide_border=true&langs_count=10" />
 </p>
 
 <br>
