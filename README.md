@@ -20,10 +20,8 @@
   
 ## 📈 Github İstatistiklerim
 
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=Volrize&show_icons=true&hide_title=true&theme=radical&text_color=FF9DD9&count_private=true&include_all_commits=true&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Volrize&layout=compact&text_color=FF9DD9&title_color=FF9DD9&bg_color=141321&count_private=true&include_all_commits=true&hide_border=true&langs_count=10" />
-</p>
+ <img src="https://github-readme-stats.vercel.app/api?username=Volrize&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" width="%150" height="150px" alt="stats" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Volrize&layout=compact&show_icons=true&theme=midnight-purple&hide_border=true"width="%100" height="150px" />
 
 <br>
 
