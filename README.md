@@ -17,7 +17,8 @@
 ## Discord Profilim
 
   <p align="center">
-  <div align="center"><img src="https://discord.c99.nl/widget/theme-2/673802320454352917.png"></div>
+  <div align="center"><img src="[![Discord Presence](https://lanyard.cnrad.dev/api/673802320454352917)](https://discord.com/users/673802320454352917)
+"></div>
   
 ## 📈 Github İstatistiklerim
 
