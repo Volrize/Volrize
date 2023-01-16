@@ -21,7 +21,7 @@
 ## 📈 Github İstatistiklerim
 
 <p align="left">
-   <img src="https://github-readme-stats.vercel.app/api?username=Volrize&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" width="%150" height="150px" alt="stats" />
+   <img src="https://github-readme-stats.vercel.app/api?username=Volrize&show_icons=true&theme=dark" height="150px" alt="stats" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Volrize&layout=compact&show_icons=true&theme=midnight-purple&hide_border=true"width="%100" height="150px" />
 
 <br>
