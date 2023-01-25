@@ -19,6 +19,12 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/673802320454352917)](https://discord.com/users/673802320454352917)
   
+##Github Profilim
+  
+    <a href="https://github.com/Volrize">
+    <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=Volrize&data=followers,repositories,stars,commits&theme=aether" alt="GitHub WidgetBox" />
+  </a>
+  
 ## 📈 Github İstatistiklerim
 
   <img src="https://github-readme-stats.vercel.app/api?username=Volrize&count_private=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=FFFFFF&text_color=9f9f9f&icon_color=FFFFFF" width="%100" height="150px">
