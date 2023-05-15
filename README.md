@@ -17,7 +17,7 @@
  
 ## Discord Profilim
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/673802320454352917)](https://discord.com/users/673802320454352917)
+[![Discord Presence](https://lanyard.cnrad.dev/api/664395846212780032)](https://discord.com/users/664395846212780032)
   
 ## Github Profilim
 <p align="center">
