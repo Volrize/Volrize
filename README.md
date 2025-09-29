@@ -1,37 +1,19 @@
-### Merhaba, Ben Kerem 👋
-<a href="https://discordapp.com/users/664395846212780032/">
-  <img align="left" alt="My Discord" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-</a>
- <a href="https://github.com/Volrize/">
-  <img align="left" alt="Elminstr" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-
+# 💫 About Me:
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Volrize" alt="Volrize" /> </p>
-<br />
-<p align="center">
- <a href="https://discord.com/users/664395846212780032" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://www.github.com/Volrize" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-   <a href="https://www.npmjs.com/~volrize" target"blank_"><img src="https://img.shields.io/badge/NPM%20-ff0000.svg?&style=for-the-badge&logo=npm"></a>
-  <a href="https://open.spotify.com/user/52xv87b9sg5qif1nipnma0489" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+🏫 I am a Mechatronics student at Kastamonu University.<br>
+🔭 I am passionate about software development and technology.<br>
+💫 I enjoy working on new projects and continuously improving my skills.<br>
 
- 
-## Discord Profilim
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/664395846212780032)](https://discord.com/users/664395846212780032)
-  
-## Github Profilim
-<p align="center">
- <a href="https://github.com/Volrize">
-    <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=Volrize&data=followers,repositories,stars,commits&theme=aether" alt="GitHub WidgetBox" />
-      </a>
-  
-## 📈 Github İstatistiklerim
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/k.kerem0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:keremkabakci1519@gmail.com) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:255522005@ogr.kastamonu.edu.tr) 
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Volrize&count_private=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=FFFFFF&text_color=9f9f9f&icon_color=FFFFFF" width="%100" height="150px">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Volrize&layout=compact&theme=nord&hide_border=true&bg_color=0d1117&border_radius=6&title_color=FFFFFF" width="%100" height="150px">
-<br>
+# 💻 The languages I am learning:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Volrize&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Volrize&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Volrize&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<br />
-  
-## ⚡ Volrize <br>
-“Hayatta en büyük lüks yarına dair cümleler kurmaktır. O cümleler yarına ulaştığında ise tek gerçeğin dündür.”
+---
+[![](https://visitcount.itsvg.in/api?id=Volrize&icon=0&color=0)](https://visitcount.itsvg.in)
